@@ -1,6 +1,5 @@
 body {
-  background: rgb(34,193,195);
-  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+  background:#F5D3C8;
   height: 100%;
   margin:0;
   background-repeat: no-repeat;
@@ -13,17 +12,23 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+  color: #29335C;
+}
+
 a:link {
-  color: #B625be;
+  color: #C73E1D;
   text-decoration: none;
 }
 a:visited {
-  color: #B625be;
+  color: #C73E1D;
 }
 
 a:hover {
-  color: #fd372d;
-  text-shadow: 5px 5px  #505050;
+  color: #FCCA46;
+  background: #F18F01;
+  background: #D64045;
+  /*text-shadow: 5px 5px  #505050*/;
 }
 
 a:active {
