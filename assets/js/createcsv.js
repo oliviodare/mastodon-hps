@@ -32,7 +32,7 @@ function printSociologistsOnWP(data) {
       checkbox.id = "sociologist" + i;
       var label = document.createElement('label');
       label.htmlFor = "id";
-      label.appendChild(document.createTextNode(sociologist["account"] + " (" + sociologist["name"] + "), "));
+      label.appendChild(document.createTextNode(sociologist["account"] + " | " + sociologist["name"] + " (" + sociologist["gang"] + ")  "));
       var profilelink = document.createElement('a');
       profilelink.href = sociologist["link"];
       profilelink.target = "_blank";

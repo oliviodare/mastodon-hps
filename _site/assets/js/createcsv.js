@@ -8,7 +8,7 @@ $(document).ready(function() {
   console.log( "ready!" );
   $.ajax({
     type: "GET",
-    url: "resources/hpsers.csv",
+    url: "resources/hpsers_copy.csv",
     dataType: "text",
     success: function(data) {
       printSociologistsOnWP(data); //define your own function
@@ -32,7 +32,7 @@ function printSociologistsOnWP(data) {
       checkbox.id = "sociologist" + i;
       var label = document.createElement('label');
       label.htmlFor = "id";
-      label.appendChild(document.createTextNode(sociologist["account"] + " (" + sociologist["name"] + "), "));
+      label.appendChild(document.createTextNode(sociologist["account"] + " | " + sociologist["name"] + " (" + sociologist["gang"] + ")  "));
       var profilelink = document.createElement('a');
       profilelink.href = sociologist["link"];
       profilelink.target = "_blank";
