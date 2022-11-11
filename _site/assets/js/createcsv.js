@@ -8,7 +8,7 @@ $(document).ready(function() {
   console.log( "ready!" );
   $.ajax({
     type: "GET",
-    url: "resources/hpsers_copy.csv",
+    url: "resources/hpsers.csv",
     dataType: "text",
     success: function(data) {
       printSociologistsOnWP(data); //define your own function
