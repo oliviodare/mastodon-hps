@@ -49,7 +49,7 @@ a:hover {
   margin-right: 3cm;
 }
 
-#boxed a:link {
+#boxed a:link, #boxed a:visited {
   color:#f4f0bb;
   text-decoration: underline;
 }
