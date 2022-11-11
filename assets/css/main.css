@@ -1,5 +1,7 @@
 body {
   background:#F5D3C8;
+  background:#bde0fe;
+  background: #f4f0bb;
   height: 100%;
   margin:0;
   background-repeat: no-repeat;
@@ -14,10 +16,12 @@ body {
 
 body {
   color: #29335C;
+  color: #43291f;
 }
 
 a:link {
   color: #C73E1D;
+  color: #da2c38;
   text-decoration: none;
 }
 a:visited {
@@ -27,27 +31,25 @@ a:visited {
 a:hover {
   color: #FCCA46;
   background: #F18F01;
-  background: #D64045;
+  background: #da2c38;
   /*text-shadow: 5px 5px  #505050*/;
 }
 
-a:active {
-  color: #000000;
+
+
+#boxed {
+  border-width:3px;
+  border-style:solid;
+  border-color:#43291f;
+  background-color: #87c38f;
+  background-color: #174A38;
+  padding: 1em;
+  color: white;
+  margin-left: 3cm;
+  margin-right: 3cm;
 }
 
-a.nontext:link {
-  color: #000000;
-  text-decoration: none;
-}
-a.nontext:visited {
-  color: #000000;
-  text-decoration: none;
-}
-a.nontext:hover {
-  color: #F4BB44;
-  text-decoration: none;
-}
-a.nontext:active {
-  color: #000000;
-  text-decoration: none;
+#boxed a:link {
+  color:#f4f0bb;
+  text-decoration: underline;
 }
