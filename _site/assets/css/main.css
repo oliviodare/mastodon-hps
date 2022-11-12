@@ -12,6 +12,8 @@ body {
   width=100vpw;
   height=100vph;
   font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5em;
+  padding-right: 5.5cm;
 }
 
 body {
@@ -35,12 +37,25 @@ a:hover {
   /*text-shadow: 5px 5px  #505050*/;
 }
 
-
-
-#boxed {
-  border-width:3px;
+.hashtag {
+  text-decoration: none;
+  font-weight: normal;
+  color: white;
+  background: black;
+  background: #174A38;
+  border-width:1px;
   border-style:solid;
   border-color:#43291f;
+  border-radius: 2.9mm;
+  padding-left: 1.4mm;
+  padding-right: 1.4mm;
+}
+
+#boxed {
+  border-width:1px;
+  border-style:solid;
+  border-color:#43291f;
+  border-radius: 2.9mm;
   background-color: #87c38f;
   background-color: #174A38;
   padding: 1em;
