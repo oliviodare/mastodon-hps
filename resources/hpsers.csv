@@ -4,7 +4,7 @@ account,name,gang,link
 @jason_m_kelly@fediscience.org,Jason Kelly,H,https://fediscience.org/web/@jason_m_kelly
 @dfaria@masto.pt,Domingos Faria,P,https://masto.pt/@dfaria
 @cepaea@mstdn.social,Roberta L Millstein,HPS,https://mstdn.social/@cepaea
-@ThierryJoffredo@mamot.fr,,H,https://mamot.fr/@ThierryJoffredo
+@ThierryJoffredo@mamot.fr,Thierry Joffredo,H,https://mamot.fr/@ThierryJoffredo
 @pence@scholar.social,Charles H. Pence,HPS,https://scholar.social/@pence
 @ivanflis@mastodon.online,Ivan Flis,HPS,https://mastodon.online/@ivanflis
 @cruwell@nerdculture.de,Sophia Crüwell,P,https://nerdculture.de/@cruwell
@@ -42,7 +42,7 @@ account,name,gang,link
 @acevedo@dizl.de,Juan Acevedo,HPS,https://dizl.de/@acevedo
 @tamernawar@fediscience.org,Tamer Nawar,HPS,https://fediscience.org/@tamernawar
 @enthist@mastodon.social,Dominik Huenniger,H,https://mastodon.social/@enthist
-@theodorajewell@mastodon.social,,HPS,https://mastodon.social/@theodorajewell
+@theodorajewell@mastodon.social,Theodora Dryer,HPS,https://mastodon.social/@theodorajewell
 @Mathieu_Marion@fediscience.org,Mathieu Marion,HPS,https://fediscience.org/@Mathieu_Marion
 @alexbryant@mastodon.lol,Alex Bryant,HPS,https://mastodon.lol/@alexbryant
 @qruyant@scholar.social,Quentin Ruyant,P,https://scholar.social/@qruyant
@@ -53,7 +53,11 @@ account,name,gang,link
 @brimwats@scholar.social,bri watson,H,https://scholar.social/@brimwats
 @tefkah@akademienl.social,Thomas F. K. Jorna,P,https://akademienl.social/@tefkah
 @helenasheehan@mastodon.ie,Helena Sheehan,HPS,https://mastodon.ie/web/@HelenaSheehan
-@ten_toon@toot.community,Friedrich Wilhelm Grafe,P,https://toot.community/@ten_toon
+@Wilhelm_Grafe@fediphilosophy.org,Friedrich Wilhelm Grafe,P,https://fediphilosophy.org/@Wilhelm_Grafe
 @thomasseiller@lipn.info,Thomas Seiller,P,https://lipn.info/@thomasseiller
 @elisabethy@hcommons.social,Elisabeth M. Yang,HPS,https://hcommons.social/@elisabethy
 @elisabethy@zirk.us,Elisabeth M. Yang,HPS,https://zirk.us/@elisabethy
+@Assurnasirpal@mas.to,Jaime de la Fuente,H,https://mas.to/@Assurnasirpal
+@juliusschaxel@mastodon.social,Christian Reiß,H,https://mastodon.social/@juliusschaxel
+@MalthusJohn@c.im,@MalthusJohn@c.im,HPS,https://c.im/@MalthusJohn
+@yannbd@fediscience.org,Yann Benétreau-Dupin,HPS,https://fediscience.org/@yannbd
